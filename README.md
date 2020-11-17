@@ -11,7 +11,7 @@
 <br>- 📫 How to reach me: andrew.seracuse@gmail.com
 <br>- 😄 Pronouns: he/him/his
 <br>- ⚡ Fun fact: I love performing in and watching musical theater!  In my past life I was professional performer.
-<br>- 🌱 I’m currently expanding my understanding of algorithms and data structures With colt Steele's course
+<br>- 🌱 I’m currently expanding my understanding of algorithms and data structures With colt Steele's course.
 </details>
 
 <!--
