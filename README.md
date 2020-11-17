@@ -8,9 +8,10 @@
 <details>
   <summary><b>A bit about me...</b></summary>
 
-<br>- 📫 How to reach me: whitelisab@gmail.com
-<br>- 😄 Pronouns: she/her/hers
-<br>- ⚡ Fun fact: I am a big tennis fan and have been to the US Open three times. It's a life goal of mine to make it to all the Grand Slams! 
+<br>- 📫 How to reach me: andrew.seracuse@gmail.com
+<br>- 😄 Pronouns: he/him/his
+<br>- ⚡ Fun fact: I love performing in and watching musical theater!  In my past life I was professional performer.
+<br>- 🌱 I’m currently expanding my understanding of algorithms and data structures With colt Steele's course
 </details>
 
 <!--
